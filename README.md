@@ -19,6 +19,7 @@ NOTE:
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
 [CEP course on Deep Learning for Natural Language Processing](http://www.iitp.ac.in/~ai-nlp-ml/workshops.html)|Patna, Bihar|IIT Patna| Jan 10-23, 2020|January 07, 2020.|7500-60,000| NA
+[Winter School on Cognitive Modeling 2020](http://www.acslab.org/winterschool/home.html)|Mandi|IIT Mandi|16 Mar-22 Mar,2020|NA|3,500-6,000|No
 
 
 

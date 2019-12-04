@@ -1,10 +1,10 @@
-# Awesome-summer-schools
-# List of summer schools in machine learning + related fields
+# Awesome-summer-winter-schools
+# List of summer & winter schools in Machine Learning + Natural Language processing + Computer Vision + Computer Science  
 
 ## Table of Contents
 
-1. [2019 schools](#2019-summer-schools)
-2. [2018 schools](#2018-summer-schools)
+1. [2020 schools](#2020-summer-schools)
+2. [2019 schools](#2019-summer-schools)
 3. [Recurring Summer Schools](#recurring-summer-schools)
 4. [FAQs](#faqs)
    1. [Reddit](#reddit)
@@ -14,11 +14,11 @@ NOTE:
 - The schools are arranged in reverse chronogical order by date 
 - Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
 
-## 2019 Summer Schools
+## 2020 Summer Schools
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
-[Khipu: Latinamerican Meeting In Artificial Intelligence](http://www.khipu.ai/)|Montevideo, Uruguay|Universidad de la República|Nov 11 - Nov 15|June 28|Free for students| Travel support scholarships
+[CEP course on Deep Learning for Natural Language Processing](http://www.iitp.ac.in/~ai-nlp-ml/workshops.html)|Patna, Bihar|IIT Patna| Jan 10-23, 2020|January 07, 2020.|7500-60,000| NA
 [Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/gpss19/)|Sheffield, UK|University Of Sheffield|Sep 9 - Sep 12|July 1 for early bird|£270-£750|NA
 [Deep Learning in NLP Summer School](https://dlinnlp.github.io/index.html)|Varna, Bulgaria|-|Aug 29 - Aug 30|NA|NA|NA
 [Machine Learning Summer School (MLSS Moscow)](https://mlss2019.skoltech.ru)|Moscow, Russia|Skolkovo Institute of Science and Technology|Aug 26 - Sep 6|May 31|6000₽, $400-$1000|Full & partial stipends for strong applications. Accomodation costs fully covered for the best applicants
@@ -51,7 +51,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
 
 
-## 2018 Summer Schools
+## 2019 Summer Schools
 
 Name|Location|Organiser|Dates|Aid
 ------|--|--|---|-

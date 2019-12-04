@@ -20,6 +20,8 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
 [CEP course on Deep Learning for Natural Language Processing](http://www.iitp.ac.in/~ai-nlp-ml/workshops.html)|Patna, Bihar|IIT Patna| Jan 10-23, 2020|January 07, 2020.|7500-60,000| NA
 [Winter School on Cognitive Modeling 2020](http://www.acslab.org/winterschool/home.html)|Mandi|IIT Mandi|16 Mar-22 Mar,2020|NA|3,500-6,000|No
+[Indo-French Joint Workshop on Statistics and Artificial Intelligence for Data Science](https://www.isical.ac.in/~caiml/stat-ai-data-science/)|Kolkata|ISI Kolkata|January 13-17, 2020|15th of December, 2019|5,000-10,000|No
+
 
 
 
@@ -37,6 +39,7 @@ Name|Location|Organiser|Dates|Aid
 [Summer School: Machine Learning](https://www.iiitb.ac.in/blogs.php?pid=iiitb-summer-school-machine)|Banglore,KA|IIIT Banglore,Microsoft Research|June 10-June 28, 2019|NA
 [Summer School on Representation in Artificial Intelligence 2019](http://www.rinai.iitmandi.ac.in/)|Mandi|IIT Mandi|June 6-13, 2019 |NA
 [AI Assisted Data Analytics 2019](http://aida.iiitd.edu.in/)|Delhi|IIIT Delhi|11th-14th JULY 2019|NA
+[SUMMER SCHOOL ON MATHEMATICS FOR DATA SCIENCE 2019](http://math.iisc.ac.in/~ifcam/Summer_School2019.htm)|Banglore|IISc Banglore|July 15-27, 2019|NA
 
 
 

@@ -40,6 +40,7 @@ Name|Location|Organiser|Dates|Aid
 [Summer School on Representation in Artificial Intelligence 2019](http://www.rinai.iitmandi.ac.in/)|Mandi|IIT Mandi|June 6-13, 2019 |NA
 [AI Assisted Data Analytics 2019](http://aida.iiitd.edu.in/)|Delhi|IIIT Delhi|11th-14th JULY 2019|NA
 [SUMMER SCHOOL ON MATHEMATICS FOR DATA SCIENCE 2019](http://math.iisc.ac.in/~ifcam/Summer_School2019.htm)|Banglore|IISc Banglore|July 15-27, 2019|NA
+[Winter School on Artificial Intelligence 2019](http://cai.iiitd.ac.in/AIwinterschool2019/)|Delhi|IIIT-Delhi|18-21 Jan 2019|No
 
 
 
@@ -48,16 +49,9 @@ Name|Location|Organiser|Dates|Aid
 
 These are the summer schools which are held regularly :
 
-- CIFAR's Deep Learning And Reinforcement Learning Summer School : https://dlrlsummerschool.ca
-- Machine Learning Summer School (by Max Planck Institute, Tübingen) : http://mlss.cc/
-- Lisbon Machine Learning Summer School : http://lxmls.it.pt
-- Gaussian Process Summer Schools (by University Of Sheffield) : http://gpss.cc/
-- Data Science Summer School (by École Polytechnique) : http://www.ds3-datascience-polytechnique.fr/
 - Deep Learning Indaba Summer Schools : http://www.deeplearningindaba.com
 - Summer Schools on Computer Vision And Machine Learning (by IIIT Hyderabad) : http://cvit.iiit.ac.in/summerschoolseries/
-- Resource Aware Machine Learning Summer Schools (by TU Dortmund) : https://sfb876.tu-dortmund.de/GK/index.html
-- Artificial Intelligence and Games Summer Schools : http://school.gameaibook.org/
-- International Computer Vision Summer Schools : http://iplab.dmi.unict.it/
+
 
 
 

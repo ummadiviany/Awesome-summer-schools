@@ -27,6 +27,9 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 
 Name and Link|Location|Organiser|Dates|Fee|Aid
 ------|--|--|---|--|--
+[12th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2020)](http://www.iitj.ac.in/icvgip2020/)|Jodhpur| IIT Jodhpur|December 18 - 22 2020|NA|NA
+[CVIP 2020](https://cvip2020.iiita.ac.in/)|Allahabad|IIIT Allahabad|16-18 October 2020|NA|NA
+[SPCOM 2020](https://ece.iisc.ac.in/~spcom/2020/)|Banglore|IISCc Banglore|July 20 -23 2020|NA|NA
 [Machine Learning Developers Summit 2020](https://www.mlds.analyticsindiasummit.com/)|BANGALORE,HYDERABAD|Analytics India Magazine|22-23rd Jan 2020 ,30-31st Jan 2020|NA|NA
 [ Advanced Machine Learning Technologies and Applications (AMLTA-2020)](http://amlta.com/2020/)|Jaipur, India|Manipal University Jaipur|February 13-15, 2020|
 [The Rising 2020](https://rising.analyticsindiasummit.com/)|Hotel Radisson Blu, Bengaluru |Analytics India Magazine Pvt Ltd|20th Mar 2020|Early Bird Pass -5000,Regular Pass-7500,Late Pass-10000|NA
@@ -46,6 +49,11 @@ Name and Link|Location|Organiser|Dates|Fee|Aid
 [Winter Course/Workshop on Computational Brain Research](https://ccbr.iitmadras.in/workshops)|Madras|CCBR  IIT Madras|Jan 2 Thursday - Jan 10 Friday, 2020|No Fee|NA
 [Winter School on Speech and Audio Processing (WiSSAP) 2020](https://wissap.github.io/2020/)|Mandi,Himachal Pradesh|IIT Mandi|8-10 January 2020|Student INR 5500,Academic Staff INR 7500,Industry 		INR 9500|NA 
 [CEP course on Deep Learning for Natural Language Processing](http://www.iitp.ac.in/~ai-nlp-ml/workshops.html)|Patna,India|Indian Institute of Technology Patna|Jan 10-23, 2020|7500/- to 60000/-|NA
+[Computer Vision and Image Processing wcvip2020](http://iitr.ac.in/wcvip2020/)|Roorkee, Uttarakhand, India|IIT Roorkee| April 2-6, 2020|IIT-R UG/PG Students: Rs. 1500,IIT-R Research Scholars: Rs. 2000,Students from Other Institutes: Rs. 4000,Participants from abroad: US $200,Faculty/Staff of Academic Institutions: Rs. 5000,Industry/Research Personnel: Rs. 8000|NA
+[Robotics & AI using MATLAB](https://www.iiitnr.ac.in/content/robotics-ai)|Chhattisgarh|IIIT–Naya Raipur|MAR 4-6 2020|Students: Rs. 1000/-,Faculty: Rs. 1500/-,Industry: Rs. 2500/-|NA
+[Deep Learning and Reinforcement Learning](https://iiitd.ac.in/hwdlrl/)|Delhi|IIIT Delhi|13-14 MAR 2020|IEEE & SPS Society Members: Rs 200 + 18% GST,IEEE Members: Rs 300 + 18% GST,Non Members: Rs 500 + 18% GST|NA
+[SUMMER TRAINING PROGRAM ON VLSI DESIGN (STPVD)-2020 ](https://stpvd.iiita.ac.in/details.php)|Allahabad|IIIT Allahabad|8thJune to 5th July 2020|  Rs 11,890 /- |NA
+
 
 ## FAQs
 

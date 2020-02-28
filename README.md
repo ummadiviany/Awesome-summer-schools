@@ -10,9 +10,6 @@
    1. [Reddit](#reddit)
    2. [Blogs](#blogs)
 
-NOTE:
-- The schools are arranged in reverse chronogical order by date 
-- Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
 
 ## 2020 Summer Winter Schools
 

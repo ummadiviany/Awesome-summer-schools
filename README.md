@@ -15,6 +15,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 [IASNLP 2020](https://ltrc.iiit.ac.in/iasnlp2020/)|Hyderabad,India|LTRC IIITH|Jun 29 - Jul 11|Mar 10|Faculty	Rs. 5000/- Student	Rs. 500/- Industry	Rs. 15000/-| Financial Support: In special and deserving cases
 [5th Summer School On Computer Vision](http://cvit.iiit.ac.in/cvsummerschool2020/)|Hyderabad,India|CVIT IIITH|Jun 29 - Jul 4|Not Mentioned,First Come First Serve Basis|PhD & Masters Rs. 5900/- UG Student Rs. 11800/- Industry Rs. 29500/-| NA
 [5th Summer School On Machine Learning](http://cvit.iiit.ac.in/mlsummerschool2020/)|Hyderabad,India|CVIT IIITH|Jul 6 - Jul 11|Not Mentioned,First Come First Serve Basis|PhD & Masters Rs. 5900/- UG Student Rs. 11800/- Industry Rs. 29500/-| NA
+[JTG/IEEE ITSoc Summer School in Information Theory, Signal Processing, Telecommunication, and Networking](http://www.iitk.ac.in/jtg2020/index.php?page=Home)|Kanpur|IIT Kanpur|IIT Kanpur|6th July - 9th July 2020|Graduate Students, PostDocs: Rs. 1000 + 18% GST = Rs. 1180/-  Faculty and Others: Rs. 6000 + 18% GST = Rs. 7080/- |NA
 
 ## 2020 Conferences
 
